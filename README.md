@@ -1,5 +1,5 @@
 <div style="color:blue;text-align:center;">
-  <h1 align="center">Hi 👋, I'm Brandon Heine</h1>
+  <h1 align="center" style="color:blue;text-align:center;">Hi 👋, I'm Brandon Heine</h1>
   <h3 align="center">A passionate software engineer from California</h3>
  </div>
 
