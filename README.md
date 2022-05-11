@@ -3,8 +3,6 @@
   <h3 align="center">A passionate software engineer from California</h3>
  </div>
 
-- 🔭 I’m currently working on [CRUD App](https://mernapp-goalsetter.herokuapp.com/login)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/brandonmheine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brandonmheine" height="30" width="40" /></a>
