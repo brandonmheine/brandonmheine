@@ -1,6 +1,6 @@
 <div style="color:blue;text-align:center;">
   <h1 align="center" style="color:blue;text-align:center;">Hi 👋, I'm Brandon Heine</h1>
-  <h3 align="center">A passionate software engineer from California</h3>
+  <h3 align="center">I love coding and math. I am an experienced Software Engineer and Educator</h3>
  </div>
 
 <h3 align="center">Connect with me:</h3>
