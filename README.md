@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brandon Heine</h1>
-<h3 align="center">A passionate software engineer from California</h3>
+<div style="color:blue;text-align:center;">
+  <h1 align="center">Hi 👋, I'm Brandon Heine</h1>
+  <h3 align="center">A passionate software engineer from California</h3>
+ </div>
 
 - 🔭 I’m currently working on [CRUD App](https://mernapp-goalsetter.herokuapp.com/login)
 
