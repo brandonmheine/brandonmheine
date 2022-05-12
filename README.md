@@ -38,7 +38,7 @@
       <h3 align="center">Portfolio Website</h3>
         <br />
         <a target="_blank" href="https://brandonmheine.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Portfolio"/>
+            <img src="portfolioWebsite.jpg" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">       
