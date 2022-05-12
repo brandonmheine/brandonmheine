@@ -91,7 +91,7 @@
       <h3 align="center">Restaurant Website</h3>
         <br />
         <a target="_blank" href="https://brandonmheine.netlify.app/restaurant/index.html">
-          <img src="images/gif3.gif" width="100%" alt="Restaurant"/>
+          <img src="https://brandonmheine.netlify.app/restaurant/assets/pancake.jpg" width="100%" alt="Restaurant"/>
         </a>
         <br />
         <p align="center">        
