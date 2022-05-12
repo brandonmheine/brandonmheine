@@ -55,7 +55,7 @@
       <h3 align="center">CRUD APP - "Goal Setter"</h3>
         <br />
       <a target="_blank" href="https://mernapp-goalsetter.herokuapp.com/login">
-            <img src="images/gif2.gif" width="100%"  alt="CRUD APP"/>
+            <img src="https://brandonmheine.netlify.app/images/goals.jpg" width="100%"  alt="CRUD APP"/>
         </a>
         <br />
         <p align="center">     
@@ -74,7 +74,7 @@
       <h3 align="center">Virtual Reading List</h3>
       <br />
         <a target="_blank" href="https://brandonmheine.github.io/library/">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+          <img src="images/gif4.gif" width="100%" alt="Library"/>
         </a>
       <br />
         <p align="center">
