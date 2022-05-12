@@ -38,7 +38,7 @@
       <h3 align="center">Portfolio Website</h3>
         <br />
         <a target="_blank" href="https://brandonmheine.netlify.app/">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="images/gif1.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">       
@@ -52,10 +52,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>  
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Goal Setter"</h3>
+      <h3 align="center">CRUD APP - "Goal Setter"</h3>
         <br />
       <a target="_blank" href="https://mernapp-goalsetter.herokuapp.com/login">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/gif2.gif" width="100%"  alt="CRUD APP"/>
         </a>
         <br />
         <p align="center">     
