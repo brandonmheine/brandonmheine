@@ -22,12 +22,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brandonmheine's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=brandonmheine&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
-
 
 
 
@@ -124,5 +118,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=LATEX&color=cbb148&style=plastic&logo=latex"/>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brandonmheine's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=brandonmheine&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 
