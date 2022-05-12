@@ -74,7 +74,7 @@
       <h3 align="center">Virtual Reading List</h3>
       <br />
         <a target="_blank" href="https://brandonmheine.github.io/library/">
-          <img src="images/gif4.gif" width="100%" alt="Library"/>
+          <img src="library.jpg" width="100%" alt="Library"/>
         </a>
       <br />
         <p align="center">
