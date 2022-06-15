@@ -125,6 +125,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Brandonmheine's streak" src="http://github-readme-streak-stats.herokuapp.com/?user=brandonmheine&theme=monokai-metallian&hide_border=true"/>
   </a>
+  <br />
   <img src="https://www.codewars.com/users/SixtySix/badges/large"/>
 </p>
 
